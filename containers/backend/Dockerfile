@@ -1,4 +1,4 @@
-FROM python:3.8
+FROM python:3.14.2
 LABEL maintainer="LessPass <contact@lesspass.com>"
 LABEL name="LessPass Backend"
 RUN mkdir /opt/backend
