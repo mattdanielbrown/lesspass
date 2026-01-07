@@ -15,7 +15,7 @@
     "lesspass-pure": "latest"
   },
   "devDependencies": {
-    "favicons": "^6.2.1",
+    "favicons": "^7.1.2",
     "gulp": "^4.0.2",
     "gulp-favicons": "^3.0.0"
   }
